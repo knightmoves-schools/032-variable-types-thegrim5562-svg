@@ -2,4 +2,4 @@ let animalName = "panda";
 let height = 6.5;
 let isIndoorPet = true;
 
-document.getElementById("panda").innerHTML = typeof animalName;
+document.getElementById("string").innerHTML = typeof animalName;
